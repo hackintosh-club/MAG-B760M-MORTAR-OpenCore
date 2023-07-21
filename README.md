@@ -26,7 +26,7 @@
 - SSD: TiPlus 7100 1TB MacOS
 - GPU: ASUS Dual Radeon RX 6600 XT 8GB GDDR6
 - HDA: Realtek ALC897
-- LAN: 
+- LAN: Realtek RTL8125 Gaming  2.5GbE
 - WLAN: Intel 
 - CPU COOLING: Thermalright Frozen Magic 240 BLACK
 - CASE:  WJCOOMAN MATX (YELLOW)

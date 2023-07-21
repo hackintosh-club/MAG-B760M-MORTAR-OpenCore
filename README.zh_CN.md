@@ -26,7 +26,7 @@
 - 硬盘: 致态 TiPlus 7100 1TB MacOS
 - 显卡: ASUS Dual Radeon RX 6600 XT 8GB GDDR6 雪豹
 - 声卡: 瑞昱 ALC897
-- 有线网卡: 
+- 有线网卡: 瑞昱 RTL8125 Gaming 2.5GbE
 - 无线网卡: 英特尔
 - 处理器散热: 利民 240 冰封幻境 一体式水冷散热器 ARGB LGA1700 黑色
 - 机箱:  玩嘉 铝元素紧凑机箱 MATX (黄色)
