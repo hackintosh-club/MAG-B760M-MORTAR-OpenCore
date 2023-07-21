@@ -46,11 +46,11 @@ Search
     |-- D.T.M: Disabled
 ```
 
-<img src="Screenshot/Search.png" alt="image" style="zoom:70%;" />
+<img src="Screenshot/Search.png" alt="image" style="zoom:50%;" />
 
-<img src="Screenshot/D.T.M.png" alt="image" style="zoom:70%;" />
+<img src="Screenshot/D.T.M.png" alt="image" style="zoom:50%;" />
 
-<img src="Screenshot/SecureBoot.png" alt="image" style="zoom:70%;" />
+<img src="Screenshot/SecureBoot.png" alt="image" style="zoom:50%;" />
 
 
 
