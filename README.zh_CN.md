@@ -2,7 +2,7 @@
 
 ![image](Screenshot/Motherbord.png)
 
-### [简体中文](https://github.com/hackintosh-club/MAG-B760M-MORTAR-OpenCore)
+### [ENGLISH](https://github.com/hackintosh-club/MAG-B760M-MORTAR-OpenCore)
 
 
 ### OpenCore
@@ -36,15 +36,17 @@
 ### BIOS设置
 
 ```
+1.关闭安全启动
 Settings
   |-- Security
      |-- Secure Boot
        |-- Secure Boot: Disabled
-1.关闭安全启动
+
+2.使用搜索功能查找并启用 D.T.M 
 Search
   |-- D.T.M
     |-- D.T.M: Enabled
- 2.启用 D.T.M 
+
 ```
 
 <img src="Screenshot/Search.png" alt="image" style="zoom:50%;" />
