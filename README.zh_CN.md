@@ -27,7 +27,7 @@
 - 显卡: ASUS Dual Radeon RX 6600 XT 8GB GDDR6 雪豹
 - 声卡: 瑞昱 ALC897
 - 有线网卡: 瑞昱 RTL8125 Gaming 2.5GbE
-- 无线网卡: 英特尔
+- 无线网卡: 英特尔 AX211
 - 处理器散热: 利民 240 冰封幻境 一体式水冷散热器 ARGB LGA1700 黑色
 - 机箱:  玩嘉 铝元素紧凑机箱 MATX (黄色)
 - 电源:  鑫谷 GM750W ATX 80 金牌全模组
@@ -63,12 +63,7 @@ Search
 
 ### 系统截图
 
-![macOS Ventura](Screenshot/about.png)
-
-![Info](Screenshot/info.png)
-
-![Geekbench 5](Screenshot/geekbench5.png)
-
+![macOS Ventura Cinebench R20 & Geekbench 5](Screenshot/about.png)
 
 ### 常用工具
 

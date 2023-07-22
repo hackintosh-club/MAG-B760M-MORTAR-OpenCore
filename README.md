@@ -27,7 +27,7 @@
 - GPU: ASUS Dual Radeon RX 6600 XT 8GB GDDR6
 - HDA: Realtek ALC897
 - LAN: Realtek RTL8125 Gaming  2.5GbE
-- WLAN: Intel 
+- WLAN: Intel AX211
 - CPU COOLING: Thermalright Frozen Magic 240 BLACK
 - CASE:  WJCOOMAN MATX (YELLOW)
 - PSU:  Segotep GM750W GOLD 750W
@@ -60,11 +60,7 @@ Search
 
 ### Screenshot
 
-![macOS Ventura](Screenshot/about.png)
-
-![Info](Screenshot/info.png)
-
-![Geekbench 5](Screenshot/geekbench5.png)
+![macOS Ventura Cinebench R20 & Geekbench 5](Screenshot/about.png)
 
 
 ### Tools
