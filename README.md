@@ -7,11 +7,12 @@
 
 ### OpenCore
 
-[OpenCore 0.9.3](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
 
+- Sonoma
 - Ventura
 - Monterey
 
@@ -57,6 +58,8 @@ Search
 ### Notes
 
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) or [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
+ - The AirportItlwm.kext driver in this EFI is only compatible with the MacOS 13 Ventura version
+ - To install macOS 14 Sonoma, Please replace the AirportItlwm.kext driver that is suitable for version 14 on your own
 
 ### Screenshot
 

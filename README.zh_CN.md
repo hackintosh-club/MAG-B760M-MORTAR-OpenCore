@@ -7,11 +7,12 @@
 
 ### OpenCore
 
-[OpenCore 0.9.3](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
 
+- Sonoma
 - Ventura
 - Monterey
 
@@ -60,10 +61,14 @@ Search
 ### 注意事项
 
  - 安装成功后必须使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 或者 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
+ - 此EFI中的AirportItlwm.kext驱动仅适配MacOS 13 Ventura版本
+ - 安装macOS 14 Sonoma请自行替换适合14版本的AirportItlwm.kext驱动
+
 
 ### 系统截图
 
 ![macOS Ventura Cinebench R20 & Geekbench 5](Screenshot/about.png)
+
 
 ### 常用工具
 
